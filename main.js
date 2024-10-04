@@ -15,8 +15,8 @@
 
 let estados = ['RS','SC','PR','SP','MS','MT','RJ','ES','MG','GO','DF','TO','BA','RO','SE','AL','PE','PB','RN','CE','PI','MA','PA','AP','RR','AM','AC'];
 console.log(estados);
-let i = 999
-while(i > 998){
+let i = 0
+while(i > 10){
     console.log(i);
     i = i + 1
 }
