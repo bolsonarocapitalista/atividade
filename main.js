@@ -22,7 +22,6 @@ let estados = ['RS','SC','PR','SP','MS','MT','RJ','ES','MG','GO','DF','TO','BA',
 //     i = i + 1
 // }
 for (let i = 0; i < estados.length; i++) {
-    const element = estados[i];
     console.log(i);
     console.log(estados[i]);
 } 
